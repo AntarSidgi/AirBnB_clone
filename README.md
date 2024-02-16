@@ -30,7 +30,7 @@ It represents the first step towards building a full web application.
 
 #### Installation
 ```bash
-git clone git@github.com:shakir-abdo/AirBnB_clone.git
+git clone git@github.com:AntarSidgi/AirBnB_clone.git
 cd AirBnB_clone
 ```
 #### Usage
